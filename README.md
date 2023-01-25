@@ -3,7 +3,7 @@
 This program is a custom variation of a "FizzBuzz" coding problem.
 Find out the history of FizzBuzz on: https://en.wikipedia.org/wiki/Fizz_buzz 
 
-## ow it works:
+## Logic:
 
 A user is prompted to enter 2 numbers - one for the beginning of array and one for the last number in the chosen array.
 The program prints all numbers in users' array, replacing numbers that match a certain condition with an explanatory note.
