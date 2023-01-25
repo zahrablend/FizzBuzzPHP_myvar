@@ -14,4 +14,4 @@ The program notifies about numbers that can be divided without a remainder to:
 - both 5 and 10
 - to all 3, 5 and 10
 
-The program counts how many numbers in each category and how many times certain keyword repeats in a given range of numbers.
+The program counts how many numbers there are in each category and how many times certain keyword repeats in a given range of numbers.
