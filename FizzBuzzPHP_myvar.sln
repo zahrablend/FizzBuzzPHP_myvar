@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "FizzBuzzPHP", "FizzBuzzPHP\FizzBuzzPHP.phpproj", "{7C3292AF-329A-437F-A9BA-73EA7518742B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3292AF-329A-437F-A9BA-73EA7518742B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3292AF-329A-437F-A9BA-73EA7518742B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3292AF-329A-437F-A9BA-73EA7518742B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3292AF-329A-437F-A9BA-73EA7518742B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B47D8124-0124-4C75-8D67-D7F9B7D571B8}
+	EndGlobalSection
+EndGlobal
