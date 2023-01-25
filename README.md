@@ -6,7 +6,7 @@ Find out the history of FizzBuzz on: https://en.wikipedia.org/wiki/Fizz_buzz
 ## Logic:
 
 A user is prompted to enter 2 numbers - one for the beginning of array and one for the last number in the chosen array.
-The program prints all numbers in users' array, replacing numbers that match a certain condition with an explanatory note.
+The program prints all numbers in user's array, replacing numbers that match a certain condition with an explanatory note.
 The program notifies about numbers that can be divided without a remainder to:
 
 - 3, 5 or 10
